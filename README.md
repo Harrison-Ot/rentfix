@@ -121,10 +121,6 @@ Managers can update the status as the issue progresses.
 
 ### Frontend
 
-* Blade / Laravel frontend
-
-or, if using a separate frontend:
-
 * Next.js
 * TypeScript
 * Tailwind CSS
